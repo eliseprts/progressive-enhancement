@@ -1,0 +1,65 @@
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #202427;
+}
+a {
+  text-decoration: none;
+  font-weight: lighter;
+  color: #0d0e0f;
+}
+a:visited {
+  color: firebrick;
+}
+a:hover,
+a:focus,
+a:active {
+  color: white;
+}
+body {
+  max-width: 90%;
+  margin: 25px;
+  background: linear-gradient(180deg, #a7d2d3, #1b5657);
+  background-image: url(/progressive-enhancement/images/background-vagues.jpeg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: cover;
+}
+blockquote {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-size: 160%;
+  font-style: italic;
+  background: rgb(245, 244, 244);
+  border-left-style: solid;
+  border-left-width: 3px;
+  border-left-color: firebrick;
+  padding-left: 30px;
+}
+q {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-size: 160%;
+  font-style: italic;
+  background: rgb(245, 244, 244);
+  border-left-style: solid;
+  border-left-width: 3px;
+  border-left-color: firebrick;
+  padding-left: 30px;
+}
+q.villagers {
+  border-left-color: #1b5657;
+}
+q.farmer {
+  border-left-color: #eddc47;
+}
+h1 {
+  background-color: #eddc47;
+}
