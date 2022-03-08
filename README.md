@@ -1,5 +1,4 @@
-# progressive-enhancement
-## Part 0 of the HTML-CSS course
+# THE FIELD | Part 0 of the HTML-CSS course
 
 * Building a page using HTML and CSS
 * Duration : 3 days
