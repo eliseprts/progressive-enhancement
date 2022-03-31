@@ -1,6 +1,17 @@
 # THE FIELD | Part 0 of the HTML-CSS course
 
-* Building a page using HTML and CSS
+_Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)_
+
+* Mode : solo work
+* Type of challenge : learning
 * Duration : 3 days
-* Solo work
-* [Instructions](https://github.com/becodeorg/CRL-Keller-4/blob/main/1.The-Field/04.HTML-CSS/0.progressive_enhancement/readme.md)
+* [GitHub Page](https://eliseprts.github.io/progressive-enhancement/)
+
+## Languages used
+
+* HTML5
+* CSS3
+
+## Mission
+
+Building a page using HTML and CSS
